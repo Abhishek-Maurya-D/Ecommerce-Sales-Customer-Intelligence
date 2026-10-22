@@ -89,9 +89,7 @@ This is a suggested structure. Adjust it to match the files you actually upload;
 
 Add screenshots of your completed dashboard to `dashboard/screenshots/`, then uncomment and update the example below:
 
-```markdown
-![E-commerce Analytics Dashboard](dashboard/screenshots/dashboard.png)
-```
+<img width="1144" height="703" alt="Screenshot 2026-10-22 143439" src="https://github.com/user-attachments/assets/b97116c7-c0da-4c1f-8cc8-cd1e01c3e17e" />
 
 ## Business Insights & Recommendations
 
@@ -142,7 +140,6 @@ Do not add example numbers as if they were real results. Populate this section a
 
 - GitHub: [Abhishek-Maurya-D](https://github.com/Abhishek-Maurya-D)
 - LinkedIn: [Abhishek Maurya](https://linkedin.com/in/abhishek-maurya-7b7228271/)
-- Portfolio: [abhishekmaurya.space](https://abhishekmaurya.space)
 
 ---
 
